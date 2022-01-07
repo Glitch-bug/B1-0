@@ -325,7 +325,7 @@
 @media (max-width: 991px) {
 
   .banner {
-    padding: 5vw;
+    padding: 6vw;
   }
 
   .banner header {
@@ -347,13 +347,13 @@
   .about .contentBx,
   .about .imgBx2 {
     width: 100%;
-    padding: 50px;
+    padding: 6vw;
     min-height: 400px;
     text-align: center;
   }
 
   .services{
-    padding: 50px;
+    padding: 6vw;
   }
 
   .services .container{
@@ -368,7 +368,7 @@
   }
 
   .technology {
-    padding: 50px;
+    padding: 6vw;
     padding-top: 300px;
     justify-content: center;
     flex-direction: column;
@@ -380,7 +380,7 @@
   }
 
   .client {
-    padding: 50px;
+    padding: 6vw;
   }
   
   .client .imgBx {
@@ -388,11 +388,11 @@
   }
 
   .testimonials {
-    padding: 50px;
+    padding: 6vw;
   }
 
   .testimonials .contentBx{
-    padding: 60px 40px;
+    padding: 60px 4vw;
     max-width: 550px;
     margin-bottom: 40px;
   }
@@ -402,11 +402,11 @@
   }
 
   .contact {
-    padding: 50px;
+    padding: 6vw;
   }
 
   .footer{
-    padding: 20px 50px;
+    padding: 20px 6vw;
     flex-direction: column;
     text-align: center;
   }
