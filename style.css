@@ -325,10 +325,10 @@
 @media (max-width: 991px) {
 
   .banner {
-    padding: 50px;
+    padding: 5vw;
   }
 
-  .banner .header {
+  .banner header {
     padding: 20px 50px;
   }
 
